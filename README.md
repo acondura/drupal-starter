@@ -17,3 +17,8 @@ Jump-start your next Drupal project with useful configurations.
 3. Go to your cloned project and run `ddev start`.
 4. Install from existing configuration with `ddev drush si --existing-config -y`.
 5. Access https://drupal-starter.ddev.site (or the one given at step 3, if you named your project differently) with user & password given at the end of the previous command.
+
+## Tips
+
+- Regarding drush commands, for less typing, you can add an alias to your Windows/Linux user profile as `alias ddr="ddev drush"`.
+- If working locally, for easy login, you can run `ddr upwd admin admin`. Just be sure to change your admin password if making this instance public.
