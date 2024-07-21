@@ -4,6 +4,8 @@ Jump-start your next Drupal project with useful configurations.
 
 ## Features
 
+- Always up to date core & contrib
+- Drush installed
 - Gin theme
 - Gin login module
 - Require login module
