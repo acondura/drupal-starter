@@ -2,6 +2,9 @@
 
 Jump-start your next Drupal project with useful configurations.
 
+![alt text](drupal-starter1.png)
+![alt text](drupal-starter2.png)
+
 ## Features
 
 - Always up to date core & contrib
