@@ -2,8 +2,8 @@
 
 Jump-start your next Drupal project with useful configurations.
 
-![Drupal Starter login](drupal-starter1.png)
-![Drupal Starter content page](drupal-starter2.png)
+![Drupal Starter login](drupal-starter-login.png)
+![Drupal Starter content page](drupal-starter-content.png)
 
 ## Features
 
