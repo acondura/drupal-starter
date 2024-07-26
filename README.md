@@ -15,6 +15,7 @@ Jump-start your next Drupal project with useful configurations.
 - Require login module
 - Admin toolbar module
 - Coffee module
+- Social login - default with Google, Apple, Facebook - extensible with many many others (https://www.drupal.org/project/social_auth)
 
 ## Installation
 
