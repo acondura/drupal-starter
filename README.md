@@ -4,6 +4,7 @@ Jump-start your next Drupal project with useful configurations.
 
 ![Drupal Starter login](drupal-starter-login.png)
 ![Drupal Starter content page](drupal-starter-content.png)
+![Drupal Starter social login](drupal-starter-social-login.png)
 
 ## Features
 
