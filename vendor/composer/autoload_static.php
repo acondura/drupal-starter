@@ -27,6 +27,7 @@ class ComposerStaticInit7f462c0e1e81602f821b8b2f59a1a946
         'def43f6c87e4f8dfd0c9e1b1bab14fe8' => __DIR__ . '/..' . '/symfony/polyfill-iconv/bootstrap.php',
         '2f69d3914119f042cca9e44442d5ce95' => __DIR__ . '/../..' . '/web/core/includes/bootstrap.inc',
         '23c18046f52bef3eea034657bafda50f' => __DIR__ . '/..' . '/symfony/polyfill-php81/bootstrap.php',
+        '9b38cf48e83f5d8f60375221cd213eee' => __DIR__ . '/..' . '/phpstan/phpstan/bootstrap.php',
         '801c31d8ed748cfa537fa45402288c95' => __DIR__ . '/..' . '/psy/psysh/src/functions.php',
     );
 
@@ -36,6 +37,14 @@ class ComposerStaticInit7f462c0e1e81602f821b8b2f59a1a946
             'phpowermove\\docblock\\' => 21,
             'phootwork\\lang\\' => 15,
             'phootwork\\collection\\' => 21,
+        ),
+        'm' => 
+        array (
+            'mglaman\\PHPStanDrupal\\' => 22,
+        ),
+        'd' => 
+        array (
+            'dekor\\' => 6,
         ),
         'T' => 
         array (
@@ -93,6 +102,7 @@ class ComposerStaticInit7f462c0e1e81602f821b8b2f59a1a946
             'Psr\\Cache\\' => 10,
             'PhpParser\\' => 10,
             'Peast\\' => 6,
+            'PHPStan\\' => 8,
         ),
         'M' => 
         array (
@@ -165,6 +175,14 @@ class ComposerStaticInit7f462c0e1e81602f821b8b2f59a1a946
         'phootwork\\collection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phootwork/collection',
+        ),
+        'mglaman\\PHPStanDrupal\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mglaman/phpstan-drupal/src',
+        ),
+        'dekor\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/dekor/php-array-table/src',
         ),
         'Twig\\' => 
         array (
@@ -347,6 +365,10 @@ class ComposerStaticInit7f462c0e1e81602f821b8b2f59a1a946
         array (
             0 => __DIR__ . '/..' . '/mck89/peast/lib/Peast',
         ),
+        'PHPStan\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpstan/phpstan-deprecation-rules/src',
+        ),
         'Masterminds\\' => 
         array (
             0 => __DIR__ . '/..' . '/masterminds/html5/src',
@@ -354,9 +376,9 @@ class ComposerStaticInit7f462c0e1e81602f821b8b2f59a1a946
         'League\\OAuth2\\Client\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/oauth2-client/src',
-            1 => __DIR__ . '/..' . '/league/oauth2-google/src',
-            2 => __DIR__ . '/..' . '/patrickbussmann/oauth2-apple/src',
-            3 => __DIR__ . '/..' . '/league/oauth2-facebook/src',
+            1 => __DIR__ . '/..' . '/league/oauth2-facebook/src',
+            2 => __DIR__ . '/..' . '/league/oauth2-google/src',
+            3 => __DIR__ . '/..' . '/patrickbussmann/oauth2-apple/src',
         ),
         'League\\Container\\' => 
         array (

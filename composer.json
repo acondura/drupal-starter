@@ -18,9 +18,9 @@
         "composer/installers": "^2.0",
         "drupal/admin_toolbar": "^3.4",
         "drupal/coffee": "^1.4",
-        "drupal/core-composer-scaffold": "^10.3",
-        "drupal/core-project-message": "^10.3",
-        "drupal/core-recommended": "^10.3",
+        "drupal/core-composer-scaffold": "10.3.2",
+        "drupal/core-project-message": "10.3.2",
+        "drupal/core-recommended": "10.3.2",
         "drupal/gin": "^3.0@RC",
         "drupal/gin_login": "^2.1",
         "drupal/gin_toolbar": "^1.0@RC",
@@ -29,6 +29,7 @@
         "drupal/social_auth_apple": "^1.1",
         "drupal/social_auth_facebook": "^3.0",
         "drupal/social_auth_google": "^3.0",
+        "drupal/upgrade_status": "^4.3",
         "drush/drush": "^12.5"
     },
     "conflict": {
